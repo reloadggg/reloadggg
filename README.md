@@ -78,6 +78,13 @@ Signal    : cyber-tech core with a light anime edge
 - [grok2api](https://github.com/reloadggg/grok2api): 面向最新 Web 调用格式的 Grok API 服务化适配
 - [HitCC](https://github.com/reloadggg/HitCC): Claude Code CLI 逆向与逻辑文档整理
 
+## `> private_builds`
+
+- `vizcrew`: Local-first AI video workflow and demo pipeline `// private · 暂未开源`
+- `ds160-visa-simulator`: DS-160 签证面签模拟器，含 FastAPI + Next.js + Docker `// private · 暂未开源`
+- `lensight`: 本地视频分析与 XHS Agent 编排实验 `// private · 暂未开源`
+- `resume-agent-platform`: 面向简历生产和求职工作流的 Agent 平台 `// private · 暂未开源`
+
 ## `> contact_portal`
 
 <div align="center">
