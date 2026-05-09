@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:0ea5e9,70:22d3ee,100:ec4899&text=AsmE&fontColor=f8fafc&fontSize=64&fontAlignY=38&desc=AI%20Agent%20Builder%20%7C%20Workflow%20Toolsmith&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:0ea5e9,70:22d3ee,100:ec4899&text=Feng&fontColor=f8fafc&fontSize=64&fontAlignY=38&desc=AI%20Agent%20Builder%20%7C%20Workflow%20Toolsmith&descAlignY=60&animation=fadeIn" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+agents+that+actually+ship;Designing+tooling+for+automation+workflows;Cyberpunk+mindset%2C+engineer+execution;Code.+Systems.+Interfaces.+Signals.)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 ## `> whoami`
 
 ```txt
-Name      : AsmE
+Name      : Feng
 Role      : AI Agent Builder / Workflow Toolsmith
 Focus     : Automation, Tooling, Agent Systems, Full-stack Prototyping
 Style     : Build fast, refine hard, ship useful things
