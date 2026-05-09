@@ -53,13 +53,14 @@ Signal    : cyber-tech core with a light anime edge
 ## `> github_signal`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reloadggg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reloadggg&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=reloadggg&theme=tokyonight&hide_border=true" />
 </div>
+
+```txt
+Public Repos : 44
+Core Stack   : Python / TypeScript / JavaScript / Go
+Focus        : AI Agents / Tooling / Automation / Workflow Systems
+```
 
 ## `> selected_nodes`
 
