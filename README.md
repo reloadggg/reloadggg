@@ -28,20 +28,12 @@ Signal    : cyber-tech core with a light anime edge
 
 ## `> featured_projects`
 
-<div align="center">
-  <a href="https://github.com/reloadggg/Trellis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reloadggg&repo=Trellis&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/reloadggg/ccg-workflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reloadggg&repo=ccg-workflow&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/reloadggg/resume-as-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reloadggg&repo=resume-as-code&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/reloadggg/wechat-access-plugin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reloadggg&repo=wechat-access-plugin&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-</div>
+| Project | What it does |
+| --- | --- |
+| [Trellis](https://github.com/reloadggg/Trellis) | All-in-one AI framework & toolkit |
+| [ccg-workflow](https://github.com/reloadggg/ccg-workflow) | 多模型协作开发系统，覆盖从规划到执行的工作流 |
+| [resume-as-code](https://github.com/reloadggg/resume-as-code) | 用工程化和 AI Agent 方式管理简历与求职材料 |
+| [wechat-access-plugin](https://github.com/reloadggg/wechat-access-plugin) | 面向 OpenClaw 的 WeChat 远程控制接入插件 |
 
 ## `> tech_stack`
 
