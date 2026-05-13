@@ -57,8 +57,8 @@ Model-agnostic Agent Frameworks
 
 | Project | Description |
 |---|---|
-| 💬 [wechat-access-plugin](https://github.com/reloadggg/wechat-access-plugin) | OpenClaw WeChat remote-control channel plugin with console-driven setup flow |
 | 📄 [resume-as-code](https://github.com/reloadggg/resume-as-code) | Resume-as-code workflow for managing career materials like a software project |
+| 💬 [wechat-access-plugin](https://github.com/reloadggg/wechat-access-plugin) | WeChat remote-control channel plugin with console-driven setup flow |
 | 🔌 [n8n-nodes-302ai-chat](https://github.com/reloadggg/n8n-nodes-302ai-chat) | n8n community node for integrating 302.AI chat workflows |
 | 🧪 [RAG-ChatBot](https://github.com/reloadggg/RAG-ChatBot) | RAG chatbot experiment and knowledge-base interaction prototype |
 | 📡 [oppowatch_gps](https://github.com/reloadggg/oppowatch_gps) | GPS / wearable-related experiment |
@@ -70,10 +70,6 @@ Model-agnostic Agent Frameworks
 | Project | My Involvement |
 |---|---|
 | 🔌 [grok2api](https://github.com/reloadggg/grok2api) | Submitted PR / contributed to Grok API adaptation work |
-| 🧠 [Trellis](https://github.com/reloadggg/Trellis) | Forked and explored AI framework / agent toolkit ideas |
-| 🤖 [ccg-workflow](https://github.com/reloadggg/ccg-workflow) | Forked and studied multi-model coding workflow design |
-| 🔍 [HitCC](https://github.com/reloadggg/HitCC) | Forked and studied Claude Code CLI reverse-engineering notes |
-| 🛠️ [markitdown](https://github.com/reloadggg/markitdown) | Forked and explored document-to-Markdown conversion tooling |
 
 ---
 
@@ -110,25 +106,15 @@ I prefer building systems that are:
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Working Style
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reloadggg&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reloadggg&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reloadggg&theme=github-compact&hide_border=true" />
-
-</div>
+```text
+Start from real problems.
+Build small but usable systems.
+Keep workflows debuggable.
+Avoid unnecessary complexity.
+Make tools that can actually be reused.
+```
 
 ---
 
