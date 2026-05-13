@@ -53,22 +53,33 @@ Model-agnostic Agent Frameworks
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ My Projects
 
 | Project | Description |
 |---|---|
-| 🌱 [Trellis](https://github.com/reloadggg/Trellis) | AI framework and experimental agent toolkit |
-| 🤝 [ccg-workflow](https://github.com/reloadggg/ccg-workflow) | Multi-model coding workflow for Claude Code, Codex, and Gemini CLI |
-| 📄 [resume-as-code](https://github.com/reloadggg/resume-as-code) | Resume generation system powered by structured data and AI |
-| 💬 [wechat-access-plugin](https://github.com/reloadggg/wechat-access-plugin) | Remote-control plugin for WeChat-based workflows |
-| 🔌 [grok2api](https://github.com/reloadggg/grok2api) | Grok API adapter with support for modern web-call behavior |
-| 🔍 [HitCC](https://github.com/reloadggg/HitCC) | Claude Code CLI reverse-engineering and analysis notes |
+| 💬 [wechat-access-plugin](https://github.com/reloadggg/wechat-access-plugin) | OpenClaw WeChat remote-control channel plugin with console-driven setup flow |
+| 📄 [resume-as-code](https://github.com/reloadggg/resume-as-code) | Resume-as-code workflow for managing career materials like a software project |
+| 🔌 [n8n-nodes-302ai-chat](https://github.com/reloadggg/n8n-nodes-302ai-chat) | n8n community node for integrating 302.AI chat workflows |
+| 🧪 [RAG-ChatBot](https://github.com/reloadggg/RAG-ChatBot) | RAG chatbot experiment and knowledge-base interaction prototype |
+| 📡 [oppowatch_gps](https://github.com/reloadggg/oppowatch_gps) | GPS / wearable-related experiment |
+
+---
+
+## 🤝 Open Source Contributions
+
+| Project | My Involvement |
+|---|---|
+| 🔌 [grok2api](https://github.com/reloadggg/grok2api) | Submitted PR / contributed to Grok API adaptation work |
+| 🧠 [Trellis](https://github.com/reloadggg/Trellis) | Forked and explored AI framework / agent toolkit ideas |
+| 🤖 [ccg-workflow](https://github.com/reloadggg/ccg-workflow) | Forked and studied multi-model coding workflow design |
+| 🔍 [HitCC](https://github.com/reloadggg/HitCC) | Forked and studied Claude Code CLI reverse-engineering notes |
+| 🛠️ [markitdown](https://github.com/reloadggg/markitdown) | Forked and explored document-to-Markdown conversion tooling |
 
 ---
 
 ## 🧪 Private / Experimental Builds
 
-Some projects are private while they are still under active development.
+Some projects are private or still under active development.
 
 ```text
 🎬 vizcrew
