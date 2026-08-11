@@ -78,28 +78,4 @@ n8n AI 工作流节点扩展。
 - 各种有趣的小工具
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reloadggg&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/reloadggg/reloadggg/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reloadggg&style=flat&color=blue" />
-</p>
-
----
-
 用 AI 加速开发，把想法变成现实。
