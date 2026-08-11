@@ -13,45 +13,13 @@ AI Agent 管理与工作流平台。
 
 探索 Agent 应用、工具扩展和自动化流程。
 
-
 ### [DS160 Visa Simulator](https://github.com/reloadggg/ds160-visa-simulator)
 
 AI 美签面试模拟系统。
 
-- FastAPI
-- Next.js
-- Docker
-- LLM
-
-
-### [Lensight](https://github.com/reloadggg/lensight)
-
-本地化 AI 视频分析工具。
-
-探索 AI 视频理解和自动化分析。
-
-
-### [VizCrew](https://github.com/reloadggg/vizcrew)
-
-AI 视频工作流实验项目。
-
-尝试使用 AI 构建视频处理流程。
-
-
-### [Resume Agent Platform](https://github.com/reloadggg/resume-agent-platform)
-
-AI 简历优化与求职辅助工具。
-
-
-### [WeChat Access Plugin](https://github.com/reloadggg/wechat-access-plugin)
-
-AI Agent 微信接入插件。
-
-
 ### [n8n Nodes 302AI Chat](https://github.com/reloadggg/n8n-nodes-302ai-chat)
 
 n8n AI 工作流节点扩展。
-
 
 ## 🛠 使用的技术
 
