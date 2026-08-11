@@ -1,102 +1,106 @@
-# ✦ reloadggg / Feng ✦
+# 你好，我是 Feng 👋
 
-*I turn messy ideas into agentic workflows, debuggable tools, and small systems that can keep evolving.*
+喜欢使用 AI 工具进行开发，探索 AI 应用、自动化工具和各种有趣的项目。
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=7DF9FF&center=false&vCenter=true&width=820&lines=AI+Agent+Builder;Workflow+Toolsmith;Automation+%2F+Tooling+%2F+Full-stack;Local-first+prototypes+with+visible+feedback+loops)
-
-> A useful agent is not just a prompt. It is a workflow with memory, interfaces, failure modes, and receipts.
-
-## Operating Direction
-
-I build around AI-assisted development, automation pipelines, API integration, and developer tooling.
-
-The work is usually practical: turn a rough task into a running prototype, keep the intermediate state visible, and make the output easy to inspect, debug, and reuse.
-
-| Axis | What I care about |
-| :-- | :-- |
-| Agentic workflows | Task decomposition, review loops, tool calls, traceable outputs |
-| Automation | CLI tools, plugins, repeatable scripts, workflow orchestration |
-| AI products | RAG prototypes, interview simulators, local media analysis, report generators |
-| Integration | OpenAI-compatible APIs, MCP-style bridges, n8n nodes, WeChat access channels |
-| Engineering taste | Local-first prototypes, observable state, small deployable systems |
-
-## Field Notes
-
-```text
-idea
-  -> map the workflow
-  -> split into executable tasks
-  -> prototype with AI coding tools
-  -> run locally and inspect failures
-  -> connect APIs / external tools
-  -> write down the useful state
-  -> tighten the loop into a reusable tool
-```
-
-## Open Workbench
-
-| Project | Focus | Why it matters |
-| :-- | :-- | :-- |
-| [ds160-visa-simulator](https://github.com/reloadggg/ds160-visa-simulator) | AI interview / simulation product | Full-stack DS-160 visa interview simulator with FastAPI, Next.js, and Docker |
-| [lensight](https://github.com/reloadggg/lensight) | Local video analysis | Local-first video analysis with XHS Agent orchestration |
-| [vizcrew](https://github.com/reloadggg/vizcrew) | AI video workflow | Local-first AI video workflow and demo pipeline |
-| [resume-agent-platform](https://github.com/reloadggg/resume-agent-platform) | Resume agent workflow | Agent platform for resume revision and job-search workflows |
-| [wechat-access-plugin](https://github.com/reloadggg/wechat-access-plugin) | Remote control channel | OpenClaw WeChat remote control plugin with a console-driven setup flow |
-| [n8n-nodes-302ai-chat](https://github.com/reloadggg/n8n-nodes-302ai-chat) | Workflow automation | n8n node integration for AI chat/API workflows |
-
-## Agent Systems I Track
-
-| Repository | Signal |
-| :-- | :-- |
-| [Trellis](https://github.com/reloadggg/Trellis) | The workflow layer I actually use for task state, specs, and AI-assisted development loops |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | Graph-based agent orchestration, durable execution, and controllable multi-step workflows |
-| [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation patterns, tool use, and agent collaboration research |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based agent teams, task delegation, and production-oriented agent workflows |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Software engineering agents that operate across code, shell, browser, and feedback loops |
-| [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | Research-agent workflow patterns for planning, source gathering, synthesis, and reports |
-
-## Runtime Configuration
-
-```ts
-type ReloadGGG = {
-  handle: "reloadggg";
-  name: "Feng";
-  currentRole: [
-    "AI Agent Builder",
-    "Workflow Toolsmith",
-    "Automation / Tooling / Full-stack"
-  ];
-  operatingMode: {
-    build: "small, runnable, inspectable prototypes";
-    debug: "make state visible before making it clever";
-    document: "record the decisions that make future iteration cheaper";
-  };
-  stack: {
-    languages: ["Python", "TypeScript", "JavaScript", "Go"];
-    frontend: ["Next.js", "React", "Tailwind CSS"];
-    backend: ["FastAPI", "Node.js", "REST APIs", "Docker"];
-    ai: ["OpenAI-compatible APIs", "Claude", "Gemini", "RAG", "Agent workflows"];
-    automation: ["CLI tools", "n8n", "MCP-style integrations", "GitHub workflows"];
-  };
-  interests: [
-    "AI-assisted development",
-    "agent runtime experiments",
-    "local-first automation",
-    "workflow observability",
-    "tools that turn ideas into artifacts"
-  ];
-};
-```
-
-## Activity Snapshot
-
-| Signal | Current shape |
-| :-- | :-- |
-| Public repos | AI agents, automation plugins, workflow tools, local-first prototypes |
-| Main languages | Python, TypeScript, JavaScript, Go |
-| Product surface | Interview simulation, video analysis, resume agents, WeChat access, n8n nodes |
-| Research surface | Agent frameworks, coding workflows, API adapters, CLI reverse engineering |
+主要通过 AI 辅助编程（Vibe Coding）的方式，把想法快速实现成可以运行的软件。
 
 ---
 
-*Build the loop. Keep the trace. Ship the small thing before it becomes abstract.*
+## 🚀 项目
+
+### Agent Hub
+
+AI Agent 管理与工作流平台。
+
+探索 Agent 应用、工具扩展和自动化流程。
+
+
+### DS160 Visa Simulator
+
+AI 美签面试模拟系统。
+
+- FastAPI
+- Next.js
+- Docker
+- LLM
+
+
+### Lensight
+
+本地化 AI 视频分析工具。
+
+探索 AI 视频理解和自动化分析。
+
+
+### VizCrew
+
+AI 视频工作流实验项目。
+
+尝试使用 AI 构建视频处理流程。
+
+
+### Resume Agent Platform
+
+AI 简历优化与求职辅助工具。
+
+
+### WeChat Access Plugin
+
+AI Agent 微信接入插件。
+
+
+### n8n Nodes 302AI Chat
+
+n8n AI 工作流节点扩展。
+
+
+---
+
+## 🛠 使用的技术
+
+- Python
+- TypeScript / JavaScript
+- Go
+- FastAPI
+- React / Next.js
+- Docker
+- LLM API
+- RAG
+- n8n
+
+
+## 🌱 正在探索
+
+- AI 辅助开发
+- Vibe Coding
+- AI Agent 应用
+- 自动化工作流
+- 各种有趣的小工具
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reloadggg&show_icons=true&hide_border=true" />
+</p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reloadggg/reloadggg/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reloadggg&style=flat" />
+</p>
+
+
+---
+
+用 AI 加速开发，把想法变成现实。
