@@ -73,20 +73,6 @@ n8n AI 工作流节点扩展。
 - AI Agent 应用
 - 自动化工作流
 - 各种有趣的小工具
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reloadggg&show_icons=true&hide_border=true" />
-</p>
-
-
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reloadggg&style=flat" />
-</p>
 ---
 
 用 AI 加速开发，把想法变成现实。
