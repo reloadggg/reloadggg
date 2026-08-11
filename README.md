@@ -83,7 +83,7 @@ n8n AI 工作流节点扩展。
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reloadggg&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reloadggg&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -97,9 +97,8 @@ n8n AI 工作流节点扩展。
 ## 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reloadggg&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=reloadggg&style=flat&color=blue" />
 </p>
-
 
 ---
 
